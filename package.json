@@ -1,0 +1,26 @@
+{
+  "name": "front-end-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teacherIan/front-end-static.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teacherIan/front-end-static/issues"
+  },
+  "homepage": "https://github.com/teacherIan/front-end-static#readme",
+  "dependencies": {
+    "firebase": "^9.22.1"
+  },
+  "devDependencies": {
+    "vite": "^4.3.8"
+  }
+}
